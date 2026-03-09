@@ -1,0 +1,1 @@
+Exercises are based on the textbook and the laboratory exercises of the undergraduate course “Stochastic Processes” of the School of Electrical and Computer Engineering, National Technical University of Athens.
